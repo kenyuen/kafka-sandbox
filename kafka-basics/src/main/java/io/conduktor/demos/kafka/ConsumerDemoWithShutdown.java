@@ -63,7 +63,7 @@ public class ConsumerDemoWithShutdown {
 
             // poll for data
             while (true) {
-                log.info("Polling for data...");
+//                log.info("Polling for data...");
 
                 ConsumerRecords<String, String> records =
                         consumer.poll(Duration.ofMillis(100)); // new in Kafka 2.0.0

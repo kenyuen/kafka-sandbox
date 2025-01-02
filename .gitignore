@@ -37,3 +37,29 @@ bin/
 
 ### Mac OS ###
 .DS_Store
+/kafka-beginners-course-main/gradle/wrapper/gradle-wrapper.jar
+/kafka-beginners-course-main/gradle/wrapper/gradle-wrapper.properties
+/kafka-beginners-course-main/images/kafka-beginners.png
+/kafka-beginners-course-main/kafka-basics/src/main/java/io/conduktor/demos/kafka/ConsumerDemo.java
+/kafka-beginners-course-main/kafka-basics/src/main/java/io/conduktor/demos/kafka/ConsumerDemoCooperative.java
+/kafka-beginners-course-main/kafka-basics/src/main/java/io/conduktor/demos/kafka/ConsumerDemoWithShutdown.java
+/kafka-beginners-course-main/kafka-basics/src/main/java/io/conduktor/demos/kafka/ProducerDemo.java
+/kafka-beginners-course-main/kafka-basics/src/main/java/io/conduktor/demos/kafka/ProducerDemoKeys.java
+/kafka-beginners-course-main/kafka-basics/src/main/java/io/conduktor/demos/kafka/ProducerDemoWithCallback.java
+/kafka-beginners-course-main/kafka-basics/build.gradle
+/kafka-consumer-opensearch/src/main/java/io/conduktor/demos/kafka/opensearch/OpenSearchConsumer.java
+/kafka-consumer-opensearch/build.gradle
+/kafka-consumer-opensearch/docker-compose.yml
+/kafka-beginners-course-main/kafka-streams-wikimedia/src/main/java/io/conduktor/demos/kafka/streams/wikimedia/processor/BotCountStreamBuilder.java
+/kafka-beginners-course-main/kafka-streams-wikimedia/src/main/java/io/conduktor/demos/kafka/streams/wikimedia/processor/EventCountTimeseriesBuilder.java
+/kafka-beginners-course-main/kafka-streams-wikimedia/src/main/java/io/conduktor/demos/kafka/streams/wikimedia/processor/WebsiteCountStreamBuilder.java
+/kafka-beginners-course-main/kafka-streams-wikimedia/src/main/java/io/conduktor/demos/kafka/streams/wikimedia/WikimediaStreamsApp.java
+/kafka-beginners-course-main/kafka-streams-wikimedia/build.gradle
+/kafka-beginners-course-main/.gitignore
+/kafka-beginners-course-main/build.gradle
+/kafka-beginners-course-main/gradlew
+/kafka-beginners-course-main/gradlew.bat
+/kafka-beginners-course-main/README.md
+/kafka-beginners-course-main/settings.gradle
+/kafka-beginners-course-main/gradle/wrapper/gradle-wrapper.jar
+/kafka-beginners-course-main/gradle/wrapper/gradle-wrapper.jar
